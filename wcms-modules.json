@@ -7,7 +7,7 @@
             "zip": "https://github.com/northperseids/skytheme-variant/archive/main.zip",
             "summary": "Default WonderCMS theme (2022), modified by JVL (2026). Theme works without Bootstrap and jQuery.",
             "version": "3.5.0",
-            "image": ""
+            "image": "https://raw.githubusercontent.com/northperseids/skytheme-variant/refs/heads/main/image.png"
         }
     }
 }
