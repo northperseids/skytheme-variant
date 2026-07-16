@@ -1,12 +1,12 @@
 {
-    "version": 1,
+    "version": 2,
     "themes": {
         "sky": {
             "name": "Sky-Variant",
             "repo": "https://github.com/northperseids/skytheme-variant/tree/main",
             "zip": "https://github.com/northperseids/skytheme-variant/archive/main.zip",
             "summary": "Default WonderCMS theme (2022), modified by JVL (2026). Theme works without Bootstrap and jQuery.",
-            "version": "3.5.0",
+            "version": "0.1.0",
             "image": "https://raw.githubusercontent.com/northperseids/skytheme-variant/refs/heads/main/image.png"
         }
     }
