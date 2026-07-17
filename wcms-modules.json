@@ -1,7 +1,7 @@
 {
     "version": 2,
     "themes": {
-        "sky": {
+        "sky-variant": {
             "name": "Sky-Variant",
             "repo": "https://github.com/northperseids/skytheme-variant/tree/main",
             "zip": "https://github.com/northperseids/skytheme-variant/archive/main.zip",
